@@ -1,2 +1,2 @@
 # Java
-Various Java algorthamic solution
+Data Structures and Algorithms | Java
